@@ -1,3 +1,3 @@
 poetry export --output requirements.txt
 git add .
-git
+git commit -m 'Add files'
