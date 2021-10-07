@@ -1,24 +1,8 @@
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from metaDMG_viz.app import get_app
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
+results_dir = './results/'
+app = get_app(results_dir)
 server = app.server
 
-top_markdown_text = '''
-This is my first deployed app
-'''
-
-app.layout = html.Div([
-
-    dcc.Markdown(children=top_markdown_text),
-
-])
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run_server(debug=True)
-
-
