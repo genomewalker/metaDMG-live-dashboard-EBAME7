@@ -175,9 +175,9 @@ matplotlib==3.4.3; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:556965514b259204637c360d213de28d43a1f4aed1eca15596ce83f768c5a56f \
     --hash=sha256:54a026055d5f8614f184e588f6e29064019a0aa8448450214c0b60926d62d919 \
     --hash=sha256:fc4f526dfdb31c9bd6b8ca06bf9fab663ca12f3ec9cdf4496fb44bc680140318
-metadmg-viz==0.6.7; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:e668077766f31b4399e52e9cdf74265fb74c817606c8be8914f82967b3a6b707 \
-    --hash=sha256:19458f8cb9dbe6f5fd138d69e593f735ebb42dc6a1a152f97abff773338c9f3b
+metadmg-viz==0.6.8; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:4e9ec327296404bddb8d108c9346775ad7553cca5c1560274cf44e4df7b8dbb2 \
+    --hash=sha256:d7dc47a8f3d775245068966d9e9497669fcdff45577d240d05257371252ec8c0
 multiprocess==0.70.12.2; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:35d41e410ca2a32977a483ae1f40f86b193b45cecf85567c2fae402fb8bf172e \
     --hash=sha256:9a02237eae21975155c816883479f72e239d16823a6bc063173d59acec9bcf41 \
