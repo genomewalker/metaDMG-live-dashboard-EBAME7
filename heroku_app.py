@@ -1,4 +1,4 @@
-from metaDMG_viz.app import get_app
+from metaDMG.viz.app import get_app
 
 results_dir = './results/'
 app = get_app(results_dir)
