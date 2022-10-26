@@ -4,3 +4,4 @@
 .env
 cache
 *.code-workspace
+old/*
