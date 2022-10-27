@@ -291,7 +291,7 @@ setuptools_scm = ">=7"
 
 [[package]]
 name = "metadmg"
-version = "0.36.0"
+version = "0.36.1"
 description = "metaDMG: Estimating ancient damage in (meta)genomic DNA rapidly"
 category = "main"
 optional = false
@@ -651,7 +651,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9,<3.11"
-content-hash = "456f8fb7ad372dccd0695a9b51356991eac00d3cb2268a933ce502b60d2d13e8"
+content-hash = "c27d2987a8c4938373f2e443c981b6bb07a31c61613e70f97c85b907971497cb"
 
 [metadata.files]
 Brotli = [
@@ -1017,8 +1017,8 @@ matplotlib = [
     {file = "matplotlib-3.6.1.tar.gz", hash = "sha256:e2d1b7225666f7e1bcc94c0bc9c587a82e3e8691da4757e357e5c2515222ee37"},
 ]
 metadmg = [
-    {file = "metadmg-0.36.0-py3-none-any.whl", hash = "sha256:eeab332cc8ac015f20fa27503ef54dd3cac88d54e3383bdda3cd7ffe66ec27b4"},
-    {file = "metadmg-0.36.0.tar.gz", hash = "sha256:af2015abbc909372874759fe23d33a20b9e6d4acf55f4b25ec4c0481f4043114"},
+    {file = "metadmg-0.36.1-py3-none-any.whl", hash = "sha256:7c8b9d5e5318aab155830a4f88f1acbafc7aa9cc4caadfa0fe3fc8d2974b51f5"},
+    {file = "metadmg-0.36.1.tar.gz", hash = "sha256:deb97de1ca70ce6bcd7640479fe12a2cc1828f85282c5adbdfae8e27e830c57f"},
 ]
 multiprocess = [
     {file = "multiprocess-0.70.14-pp37-pypy37_pp73-macosx_10_9_x86_64.whl", hash = "sha256:560a27540daef4ce8b24ed3cc2496a3c670df66c96d02461a4da67473685adf3"},
