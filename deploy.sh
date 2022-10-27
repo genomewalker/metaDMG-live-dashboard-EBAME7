@@ -1,5 +1,6 @@
 poetry add "metaDMG[viz]"@latest
 # poetry export --output requirements.txt --extras viz
+poetry export  --extras viz --without-hashes --format=requirements.txt > requirements.txt
 
 
 # poetry install
